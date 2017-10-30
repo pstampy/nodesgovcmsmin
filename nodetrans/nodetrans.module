@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the NodeTrans feature.
+ */
+
+include_once 'nodetrans.features.inc';

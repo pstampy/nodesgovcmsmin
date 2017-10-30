@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the NodesMixed feature.
+ */
+
+include_once 'nodesmixed.features.inc';
